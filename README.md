@@ -1,2 +1,2 @@
 # GB_crm
-I developed this crm website using Python Django framework.
+I developed this CRM website using Python Django framework.
